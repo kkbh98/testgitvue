@@ -8,6 +8,7 @@
       git checkout --orphan name_you_choose_for_orphan_branch
       AAAAA
       BBBBB
+      CCCCC
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
     <h3>Installed CLI Plugins</h3>
