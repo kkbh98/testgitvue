@@ -3,6 +3,7 @@
     <h1>{{ msg }}</h1>
     <p>
       KKKKK 김병현 김병현 김병현 cherry-pick cherry-pick For a guide and recipes on how to configure / customize this project,<br>
+      TTTTT
       check out the 
       DEVELOP의 COMMIT 하나를 FEATURE에 CHERRY-PICK으로 가져와서 COMMIT AND PUSH TEST
       git checkout --orphan name_you_choose_for_orphan_branch
